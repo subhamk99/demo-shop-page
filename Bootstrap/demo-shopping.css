@@ -1,0 +1,18 @@
+html,body{
+    margin: 0;
+}
+.main{
+    padding: 0;
+}
+.button-primary:hover{
+    background-color: cornflowerblue;
+}
+.badge-primary:hover{
+    background-color: cornflowerblue;
+}
+.product-img{
+    min-width: 30px;
+    min-height: 50px;
+    width: 10vw;
+    height: 20vh;
+}
